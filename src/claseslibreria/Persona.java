@@ -15,15 +15,12 @@ public class Persona {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-      
-        
-        String nombre;
-        
-        public Persona(String nombre){
-            this.nombre=nombre;
-        }
-    
-    }
-}
-    
 
+        String nombre;
+        String apellidos;
+            
+        
+        
+
+}
+}
